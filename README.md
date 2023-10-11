@@ -1,4 +1,4 @@
-SWE Team 6 Project
+# SWE Team 6 Project
 
 Welcome to the project repository for Team 6! All of our project's source code, presentation, documnetation, and plan will be found here. 
 
