@@ -3,8 +3,8 @@
 
 ## Education 
  **Kennesaw State University**
-  • Bachelor of Computer Science
-  • Expected Graduation: May 2025
+  - Bachelor of Computer Science
+  - Expected Graduation: May 2025
 
 **Relevant Coursework**:
   - Programming and Problem-Solving I/II
