@@ -8,7 +8,7 @@ Links below about our team and project:
 
 ## Meet the Team!
 
-* Meya Asefa
+* Mekdilawit Asefa
 * Kayla Grant
 * Obie Ezeobi
 * Nolawe Girmay
