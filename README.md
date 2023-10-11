@@ -8,14 +8,17 @@ Links below about our team and project:
 
 ## Meet the Team!
 
-* Mekdilawit Asefa
-* Kayla Grant
-* Obie Ezeobi
-* Nolawe Girmay
+* Mekdilawit Asefa (https://github.com/masefa11/swe3313Project/blob/main/Mekdilawit-Asefa-Resume.md)
+* Kayla Grant (https://github.com/masefa11/swe3313Project/blob/main/Kayla-Grant-Resume.md)
+* Obie Ezeobi (https://github.com/masefa11/swe3313Project/blob/main/Obie-Ezeobi-Resume.md)
+* Nolawe Girmay (https://github.com/masefa11/swe3313Project/blob/main/Nolawe-Girmay-Resume.md)
 
 ## Other
 
-* Team Assignments
-* Technology Description
-* Project Plan
-* Project Plan Video Presentation
+**Team Assignments**
+
+**Technology Description**
+
+**Project Plan**
+
+**Project Plan Video Presentation**
