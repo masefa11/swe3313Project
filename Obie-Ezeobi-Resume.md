@@ -22,7 +22,7 @@
     
 **Frameworks**:
 
-  • Intellj|JavaFX|Github
+  • Intellj|JavaFX|Github|Visual Studio Code
 
 ## Techincal Experience 
 **Hackathon Fall 2023**:
