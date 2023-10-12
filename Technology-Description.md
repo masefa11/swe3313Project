@@ -13,3 +13,10 @@ It is also open source so this will allow our team to work seamlessly with no is
 ## Storage System
 ### • SQL
 We are implementing SQL as our database storage system. This is a no-brainer as SQL is the universal known language for database systems and our team is familiar with SQL.
+
+## Planning
+### • YouTrack
+We were assigned to use YouTrack to create Gantt charts and Project plans to pace our team throughout this entire process.
+
+### • GitHub
+a popular platform for version control and collaboration offers numerous advantages for individuals and teams working on software development projects. We will be using it to create our outline which includes: Team members' resumes, Project plan, assignments, and Technology Description.
