@@ -15,11 +15,11 @@
 
 **Languages**:
 
-  • Java|Python
+  • Java | Python
     
 **Frameworks**:
 
-  • Intellj|Pieces|JavaFX|Github
+  • Intellj | Pieces | JavaFX | Github
 
 ## Techincal Experience 
 
