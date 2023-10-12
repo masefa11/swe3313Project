@@ -1,21 +1,21 @@
-# SWE Team 6's Project
+# SWE Team 6 Project
 
-Welcome to the project repository for Team 6! All of our project's source code, presentation, documentation, and plan will be found here. 
+Welcome to the project repository for Team 6! All of our project's source code, presentation, documnetation, and plan will be found here. 
 
 For this project, we will develop a desktop application using JavaFX and SQL to sell various video game items and gear from your favorite games including Fortnite, Call of Duty, etc.
 
-Connect with the team and project:
+Links below about our team and project:
 
-- **Meet the Team!**
-  - [Mekdilawit Asefa](https://github.com/masefa11/swe3313Project/blob/main/Mekdilawit-Asefa-Resume.md)
-  - [Kayla Grant](https://github.com/masefa11/swe3313Project/blob/main/Kayla-Grant-Resume.md)
-  - [Obie Ezeobi](https://github.com/masefa11/swe3313Project/blob/main/Obie-Ezeobi-Resume.md)
-  - [Nolawe Girmay](https://github.com/masefa11/swe3313Project/blob/main/Nolawe-Girmay-Resume.md)
+## Meet the Team!
 
-- **[Team Assignments](https://github.com/masefa11/swe3313Project/blob/main/Team-Assignments.md)**
+* Meya Asefa
+* Kayla Grant
+* Obie Ezeobi
+* Nolawe Girmay
 
-- **[Technology Description/Selection](https://github.com/masefa11/swe3313Project/blob/main/Technology-Selection.md)**
+## Other
 
-- **[Project Plan](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan.md)**
-
-- **Project Plan Video Presentation**
+* Team Assignments
+* Technology Description
+* Project Plan
+* Project Plan Video Presentation
