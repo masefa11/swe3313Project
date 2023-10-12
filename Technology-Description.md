@@ -4,7 +4,7 @@ Shown below is a layout of all the languages and IDEs we will implement into our
 ## Languages
  • Java 
  
-We will be implementing Java throughout the project. we chose this language because our team has had years of experience navigating through these works and feels most comfortable with these languages.
+Throughout the project, we will be using Java. We chose this language because our team has spent years navigating these works and is most comfortable with these languages.
 
 ## Frameworks
  • JavaFX
