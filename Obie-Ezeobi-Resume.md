@@ -18,11 +18,11 @@
 
 **Languages**:
 
-  • Java|C#|Python|SQL
+  • Java | C# | Python | SQL
     
 **Frameworks**:
 
-  • Intellj|JavaFX|Github|Visual Studio Code
+  • Intellj | JavaFX | Github | Visual Studio Code
 
 ## Techincal Experience 
 **Hackathon Fall 2023**:
