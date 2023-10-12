@@ -15,11 +15,11 @@
 
 **Languages**:
 
-  • Java|C#|Python|SQL
+  • Java | C# | Python | SQL
 
 **Frameworks**:
 
-  • Intellij|Pieces|Github|Eclipse|JavaFX
+  • Intellij | Pieces | Github | Eclipse | JavaFX
 
 ## Techincal Experience 
 
