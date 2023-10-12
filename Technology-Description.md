@@ -16,7 +16,7 @@ We are implementing SQL as our database storage system. This is a no-brainer as 
 
 ## Planning
 ### • YouTrack
-We were assigned to use YouTrack to create Gantt charts and Project plans to pace our team throughout this entire process.
+We were assigned to use YouTrack to create Gantt charts and Project plans to pace our team throughout this entire process. It offers a range of features that can greatly benefit software development teams and other project-based workflows.
 
 ### • GitHub
 a popular platform for version control and collaboration offers numerous advantages for individuals and teams working on software development projects. We will be using it to create our outline which includes: Team members' resumes, Project plan, assignments, and Technology Description.
