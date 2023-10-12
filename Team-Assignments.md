@@ -10,7 +10,7 @@ The team roles are listed below for each member. Each member was assigned a spec
 
  - Kayla will be Team 6's back-end developer, she'll be working on creating and testing code in Java as well as debugging the entire back end of the project. She will also be handling the documentation and managing the YouTrack to have a clear view of progression and identify errors in Team 6's project.
 
-**[Obie Ozeobi](https://github.com/masefa11/swe3313Project/blob/main/Obie-Ozeobi-Resume.md)**
+**[Obie Ezeobi](https://github.com/masefa11/swe3313Project/blob/main/Obie-Ezeobi-Resume.md)**
 
 - Obie will be our second back-end developer, assisting in writing and testing the implementation of Java. He will also be working to find and fix bugs in our back-end code while also being our project presenter.
   
