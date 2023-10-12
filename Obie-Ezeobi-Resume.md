@@ -4,7 +4,7 @@
 ## Education 
  **Kennesaw State University**
   - Bachelor of Science in Computer Science
-  - Expected Graduation: May 2026
+  - Expected Graduation: May 2025
 
     
 **Relevant Coursework**:
@@ -22,7 +22,7 @@
     
 **Frameworks**:
 
-  • Intellj|Pieces|JavaFX|Github
+  • Intellj|JavaFX|Github
 
 ## Techincal Experience 
 **Hackathon Fall 2023**:
