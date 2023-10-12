@@ -12,10 +12,10 @@ Connect with the team and project:
   - [Obie Ezeobi](https://github.com/masefa11/swe3313Project/blob/main/Obie-Ezeobi-Resume.md)
   - [Nolawe Girmay](https://github.com/masefa11/swe3313Project/blob/main/Nolawe-Girmay-Resume.md)
 
-- **Team Assignments**
+- **[Team Assignments](https://github.com/masefa11/swe3313Project/blob/main/Team-Assignments.md)**
 
-- **Technology Description/Selection**
+- **[Technology Description/Selection](https://github.com/masefa11/swe3313Project/blob/main/Technology-Selection.md)**
 
-- **Project Plan**
+- **[Project Plan](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan.md)**
 
 - **Project Plan Video Presentation**
