@@ -14,12 +14,13 @@ It is also open source so this will allow our team to work seamlessly with no is
 
 ## Storage System
  • SQL
+ 
 We have chosen to implement SQL as our primary database storage system. SQL, being a widely recognized and accepted language for database management, aligns with the expertise and familiarity of our team members.
 
 ## Planning
  • YouTrack
  
-We have been tasked with utilizing YouTrack for the purpose of generating Gantt charts and project plans to effectively manage our team's progress throughout the entirety of this endeavor. YouTrack provides a diverse set of features that hold substantial potential for enhancing the operational efficiency of software development teams and other workflows centered around project management.
+We have been tasked with utilizing YouTrack to generate Gantt charts and project plans to effectively manage our team's progress throughout the entirety of this endeavor. YouTrack provides a diverse set of features that hold substantial potential for enhancing the operational efficiency of software development teams and other workflows centered around project management.
 
  • GitHub
  
