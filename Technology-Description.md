@@ -2,26 +2,25 @@
 Shown below is a layout of all the languages and IDEs we will implement into our project!
 
 ## Languages
- • Java 
+ ***Java*** 
  
-Throughout the project, we will be using Java. We chose this language because our team has spent years navigating these works and is most comfortable with these languages.
+Throughout the project, we will be using Java. We chose this language because our team has spent years navigating these works and is most comfortable with this language to program our project with.
 
 ## Frameworks
- • JavaFX
+ ***JavaFX***
  
-Javafx implemented as a collection of libraries and other parts that work together to produce graphical user interfaces (GUIs), can be used to build high client-side applications. 
-It is also open source so this will allow our team to work seamlessly with no issues.
+JavaFX implemented a collection of libraries and other parts that work together to produce graphical user interfaces (GUIs), which can be used to build high client-side applications. It is also open source so this will allow our team to collaborate seamlessly with no issues.
 
 ## Storage System
- • SQL
+ ***SQL***
  
 We have chosen to implement SQL as our primary database storage system. SQL, being a widely recognized and accepted language for database management, aligns with the expertise and familiarity of our team members.
 
 ## Planning
- • YouTrack
+ ***YouTrack***
  
 We have been tasked with utilizing YouTrack to generate Gantt charts and project plans to effectively manage our team's progress throughout the entirety of this endeavor. YouTrack provides a diverse set of features that hold substantial potential for enhancing the operational efficiency of software development teams and other workflows centered around project management.
 
- • GitHub
+ ***GitHub***
  
 A popular platform for version control and collaboration offers numerous advantages for individuals and teams working on software development projects. We will be using it to create our outline which includes: Team members' resumes, Project plans, assignments, and Technology Description.
