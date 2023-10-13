@@ -20,4 +20,4 @@ Learn more about we will organize our project and team assignments with the link
 
 **[Project Plan](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan.md)**
 
-**[Project Plan Video Presentation](https://youtu.be/qFmSASKqQlc)**
+**[Project Plan Video Presentation](https://github.com/masefa11/swe3313Project/blob/65f17bbd113005a5917a6994c7260a993e66943e/Project%20Plan%20Video%20Presentation.md)**
