@@ -21,7 +21,7 @@
 
   • Intellj | Pieces | JavaFX | Github
 
-## Techincal Experience 
+## Technical Experience 
 
 **Hackathon Fall 2023**:
   - Participated in the "EduAnalytics" project, focused on leveraging data analytics to transform the educational landscape. Worked towards providing students, teachers, and educators with real-time insights into student performance, promoting personalized support and timely interventions.
