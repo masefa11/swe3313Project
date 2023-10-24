@@ -16,7 +16,7 @@ Learn more about we will organize our project and team assignments with the link
 ## Other 
 **[Team Assignments](https://github.com/masefa11/swe3313Project/blob/main/Team-Assignments.md)**
 
-**[Technology Description](https://github.com/masefa11/swe3313Project/tree/main)**
+**[Technology Description](https://github.com/masefa11/swe3313Project/blob/main/Technology-Description.md)**
 
 **[Project Plan](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan.md)**
 
