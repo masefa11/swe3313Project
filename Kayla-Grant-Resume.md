@@ -26,7 +26,7 @@
 
 * JavaFX | Git/GitHub | IntelliJ | Visual Studio Code
 
-## Technical Experience 
+## Technical Experience
 
 **Fall 2023 Hackathon**:
 
