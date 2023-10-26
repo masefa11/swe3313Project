@@ -99,7 +99,6 @@
       * Estimated Effort: ~ 1/4 day
       * Non-functional Requirement
       * Description: This page will list all items that user is buying (name and price only), the subtotal, tax (6% of the subtotal), shipping speed cost, and the grand total.
-  
     * Create a “Complete Order” Button [T6S-17]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
@@ -136,7 +135,6 @@
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: This page will show all purchased items along with who made them.
-  
     * Add the “Return to Main Page” Button [T6S-23]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
@@ -160,7 +158,6 @@
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The login credentials must be verified with their previously given username and password.
-  
     * Add New Admins [T6S-26]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
