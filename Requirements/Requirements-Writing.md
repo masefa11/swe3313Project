@@ -1,6 +1,6 @@
 # Requirements Writing
 
-### Version #1
+### Version 1
 
 * Milestone: UI Design
   * Epic: User Self-Registration Page [T6E-1]
@@ -33,15 +33,6 @@
     * Estimated Effort: ~ 1/2 day
     * Non-functional Requirement
     * Description: The inventory listing must display each item with name, picture, price, and brief discription. All items must be in English and item's prices are in US dollars formatted with "$" sign, commas, and 2 decimal points. 
-
-      ex. 
-
-      ```
-      Name: 2016 Suzuki GSXS 1000 Motorcycle
-      Picture: At least one photo
-      Price: $10,000.00
-      Description: Super clean, low mileage liter bike. Great performance, sporty look, and loaded with cool aftermarket toys.
-      ```
   * Add “Checkout” Button [T6S-6]
     * Priority: Must-Have
     * Estimated Effort: ~ 1/4 day
@@ -57,7 +48,6 @@
     * Estimated Effort: ~ 1 day
     * Functional Requirement
     * Description: The menu options will direct <u>admins only</u> to the terminal to add inventory or the sales report page.
-
 * Epic: Checkout/Shopping Cart Page [T6E-4]
   * Display Items in Shopping Cart [T6S-9]
     * Priority: Must-Have
@@ -170,7 +160,7 @@
 
 
 
-### Version #2
+### Version 1
 
 * Milestone: Future UI Design
   * Epic: Future Main Screen [T6E-14]
