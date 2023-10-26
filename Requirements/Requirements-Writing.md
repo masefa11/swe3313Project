@@ -93,12 +93,13 @@
       * Description: The user will be directed to the confirm order page if <u>all required fields</u> are filled out.
 
   * Epic: Confirm Order Page [T6E-6]
-
+  
     * Display All Items and Totals [T6S-16]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Non-functional Requirement
       * Description: This page will list all items that user is buying (name and price only), the subtotal, tax (6% of the subtotal), shipping speed cost, and the grand total.
+  
     * Create a “Complete Order” Button [T6S-17]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
@@ -114,9 +115,9 @@
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The button will send user back to shopping cart while still leaving items in cart untouched.
-
+  
   * Epic: Complete Order Page/Receipt Page [T6E-7]
-
+  
     * Display User Receipt [T6S-20]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
@@ -127,36 +128,39 @@
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The button will send user back to main screen after viewing receipt.
-
+  
   * Epic: Admin Sales Report Page [T6E-8]
-
+  
     * Display Purchased Items [T6S-22]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: This page will show all purchased items along with who made them.
+  
     * Add the “Return to Main Page” Button [T6S-23]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: This page will show all purchased items along with who made them.
-
+  
     
-
+  
 * Milestone: Technical Design
-
   * Epic: User Registration [T6E-9]
+    
     * Handle User Registration [T6S-24]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The system must verify that the given username and password has not been used already in data table.
   * Epic: User and Admin Login [T6E-10]
+  
     * Verify User and Admin Login [T6S-25]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The login credentials must be verified with their previously given username and password.
+  
     * Add New Admins [T6S-26]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
