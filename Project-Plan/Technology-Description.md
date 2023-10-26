@@ -12,9 +12,9 @@ Throughout the project, we will be using Java. We chose this language because ou
 JavaFX implemented a collection of libraries and other parts that work together to produce graphical user interfaces (GUIs), which can be used to build high client-side applications. It is also open source so this will allow our team to collaborate seamlessly with no issues.
 
 ## Storage System
- ***SQL***
+ ***MySQL***
  
-We have chosen to implement SQL as our primary database storage system. SQL, being a widely recognized and accepted language for database management, aligns with the expertise and familiarity of our team members.
+We have chosen to implement MySQL as our primary database storage system. SQL, being a widely recognized and accepted language for database management, aligns with the expertise and familiarity of our team members.
 
 ## Planning
  ***YouTrack***
