@@ -14,7 +14,7 @@ Learn more about we will organize our project and team assignments with the link
 * [Nolawe Girmay](https://github.com/masefa11/swe3313Project/blob/main/Nolawe-Girmay-Resume.md)
 
 ## Other 
-**[Team Assignments](https://github.com/masefa11/swe3313Project/blob/main/Team-Assignments.md)**
+**[Team Assignments](Project-Plan/Team-Assignments.md)**
 
 **[Technology Description](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Technology-Description.md)**
 
