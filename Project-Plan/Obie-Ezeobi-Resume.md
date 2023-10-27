@@ -18,7 +18,7 @@
 
 **Languages**:
 
-  • Java | C# | Python | SQL
+  • Java | C# | Python | MS SQL
     
 **Frameworks**:
 
