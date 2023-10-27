@@ -16,7 +16,7 @@
 * Discrete Math
 * Caculus I/II
 
-## Techincal Skills
+## Technical Skills
 
 **Languages**:
 
