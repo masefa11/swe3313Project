@@ -11,17 +11,17 @@
   - Intro to Database Systems
   - Data Structures
 
-## Techincal Skills
+## Technical Skills
 
 **Languages**:
 
-  • Java | C# | Python | SQL
+  • Java | C# | Python | MS SQL
 
 **Frameworks**:
 
   • Intellij | Pieces | Github | Eclipse | JavaFX
 
-## Techincal Experience 
+## Technical Experience 
 
 **Hackathon Fall 2023**:
 
