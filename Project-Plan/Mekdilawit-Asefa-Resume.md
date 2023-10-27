@@ -11,7 +11,7 @@
   - Discrete Mathematics
   - Programming and Problem-Solving I/II
     
-## Techincal Skills
+## Technical Skills
 
 **Languages**:
 
