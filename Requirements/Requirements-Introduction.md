@@ -15,3 +15,7 @@ The link below will take you to the decision table, which displays all of the ru
 The link below will take you to a use case diagram that depicts how various users interact with our Video Game Store.
 
 [Case Diagram](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Case-Diagram.md)
+# Requirements Video
+Here we will walk you through our entire requirement page.
+
+[Requirements Video](https://youtu.be/s1Z_qAbPEgY)
