@@ -16,15 +16,20 @@
       * Priority: Must-Have
       * Estimated Effort: ~ 2 days
       * Functional Requirement
-      * Description: The user or admin must login with their own username and password to be sent to main scree.
+      * Description: The user or admin must login with their own username and password to be sent to main screen.
     * Add “Sign up” Option [T6S-3]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The "sign up" option must direct user to the self-registration page if user is  not already registered.
-
+    * Create an Option to Update Password  [T6S-4]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The "update" option must allow user to re-create a unique password with an input field.
+  
   * Epic: Main Screen (Inventory) [T6E-3]
-
+  
     * Add Inventory Search Bar [T6S-4]
       * Priority: Must-Have
       * Estimated Effort: ~1/4 day
@@ -39,20 +44,20 @@
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
-      * Description: The button will start checkout process for user. The user <u>cannot</u> click this button if shopping cart is empty.
+      * Description: The button will start checkout process for user. The user *cannot* click this button if shopping cart is empty.
     * Create “Add to Cart” Button [T6S-7]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: This button will add selected item to user's shopping cart.
-    * Create Menu Options for Admin [T6S-8]
+    * Create Menu Option for Admin [T6S-8]
       * Priority: Must-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
-      * Description: The menu options will direct <u>admins only</u> to the terminal to add inventory or the sales report page.
-
+      * Description: The menu options will direct *admins only* to the sales report page.
+  
   * Epic: Checkout/Shopping Cart Page [T6E-4]
-
+  
     * Display Items in Shopping Cart [T6S-9]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
@@ -62,15 +67,15 @@
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
-      * Description: The button will remove selected items for user <u>with a confirmation pop-up</u>. If user removes all items from shopping cart, the user will be sent to main screen.
+      * Description: The button will remove selected items for user *with a confirmation pop-up*. If user removes all items from shopping cart, the user will be sent to main screen.
     * Add “Pay Now” Button [T6S-11]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: This button will direct user to the payment page to begin the payment process.
-
+  
   * Epic: Payment Page [T6E-5]
-
+  
     * Display Payment Process [T6S-12]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
@@ -90,8 +95,8 @@
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
-      * Description: The user will be directed to the confirm order page if <u>all required fields</u> are filled out.
-
+      * Description: The user will be directed to the confirm order page if *all required fields* are filled out.
+  
   * Epic: Confirm Order Page [T6E-6]
   
     * Display All Items and Totals [T6S-16]
@@ -138,11 +143,9 @@
     * Add the “Return to Main Page” Button [T6S-23]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
-      * Functional Requirement
+      * Functional Requirement  
       * Description: This page will show all purchased items along with who made them.
-  
-    
-  
+           
 * Milestone: Technical Design
   * Epic: User Registration [T6E-9]
     
@@ -162,10 +165,51 @@
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
-      * Description: <u>Only admins</u> must be able to input a registered user's username in login page to transform them to admin. The username input from admin must be used to search data table.
+      * Description: *Only admins* must be able have access to database to transform any user to admin.
   * Epic: Main Page [T6E-11]
+
+    * Develop a Search for Inventory [T6S-27]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The system must implement an quick searching algorithm for user to search inventory.
+    * Sort Inventory Listing [T6S-28]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The system must implement an effective sorting algorithm to list  inventory in *descending order (highest price to lowest price)*.
+    * Handle Admin Menu Options [T6S-29]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/4 day
+      * Functional Requirement
+      * Description: The system must have acess to database to add inventory and verify if new items are unique.
   * Epic: Checking Out [T6E-12]
+    * Calculate Subtotal Cost [T6S-30]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/4 day
+      * Functional Requirement
+      * Description: The system must calculate the subtotal of items in user's cart to display subtotal 
   * Epic: Payment Process [T6E-13]
+    * Handle Format of User Phone Number [T6S-32]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The system must eliminate parentheses or dashes of any given phone to store.
+    * Store User Information [T6S-33]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The system must store the shipping address, credit card information, phone number, and shipping speed. The user's credit card information must also be checked for correct format. CVV code should be 3 or 4 digits and expiration date should be in MM/DD/YYYY format.
+    * Calculate Tax [T6S-34]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/4 day
+      * Functional Requirement
+      * Description: The system must calculate the tax for user (6% of the subtotal).
+    * Calculate Grand Total [T6S-35]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/4 day
+      * Functional Requirement
+      * Description: The system must calculate the grand total for user (grand total = subtotal + tax + shipping speed cost).
 
 
 
@@ -173,10 +217,57 @@
 
 * Milestone: Future UI Design
   * Epic: Future Main Screen [T6E-14]
+    * Add Multiple Pictures to Inventory Listing
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The main screen would display multiple pictures of each item in inventory listing.
+    * Create Admin UI Page to Add Inventory
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1/4 day
+      * Functional Requirement
+      * Description: The main screen would display multiple pictures of each item in inventory listing.
   * Epic: Future Sales Report Page [T6E-15]
-  * Epic: Future User and Admin Login Page [T6E-16]
+    * Add Admin Option to Export Sales Report
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1 day
+      * Functional Requirement
+      * Description: This option will export the sales report to a CSV file for admins.
+    * Add Button to View Receipts of Sold Items
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The button will be able to view recipts of selected sold items.
   * Epic: Future Complete Order Page [T6E-17]
+
+    * Create Input Field for User Email
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The user will be able to input an email to store for sending receipts.
   * Epic: Future Payment Page [T6E-18]
+    * Add More Payment Methods
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1 day
+      * Functional Requirement
+      * Description: This page will display more payment methods (ex. Apple Pay, Google Pay, Phone Payment) and the appropriate input fields for user to enter the required information.
+  
 * Milestone: Future Technical Design
   * Epic: New Sales Report Page [T6E-19]
+  
+    * Export Sales Report to CSV
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1 day
+      * Functional Requirement
+      * Description: The system will be able to export a list of sold items into a CSV file with file I/O streams
+    * Sales Report Receipts
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1 day
+      * Functional Requirement
+      * Description: The system will be able to pull receipts of sold items from database to display for admin.
   * Epic: New Order Completion [T6E-20]
+    * Automatically Email Receipts
+      * Priority: Wants-To-Have
+      * Estimated Effort: ~ 1 day
+      * Functional Requirement
+      * Description: The system will be use the user's email address to send receipts via email after confirming order.
