@@ -18,5 +18,4 @@ The link below will take you to a use case diagram that depicts how various user
 ## Requirements Video
 Here we will walk you through our entire requirement page.
 
-[Requirements Video](Presentations/Requirments-Video.md)
-**[Project Requirements Video Presentation](Presentations/Requirments-Video.md)**
+[Requirements Video](https://github.com/masefa11/swe3313Project/blob/main/Presentations/Requirments-Video.md)
