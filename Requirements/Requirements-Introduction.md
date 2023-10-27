@@ -1,6 +1,6 @@
 # Requirements Introduction
 
-Our video game store software is a powerful desktop application that has been carefully designed to offer our valued customers an easily navigable platform on which to purchase any of their favorite video games. This extensive set of software requirements explains the goals and expectations of the project and helps all of our stakeholders—developers, testers, and valued clients—to understand it together. It acts sort of as like a manual for the team to go by and stay on track in the long run. 
+Our video game store software is a powerful desktop application that has been carefully designed to offer our valued customers an easily navigable platform on which to purchase any of their favorite video games. This extensive set of software requirements explains the goals and expectations of the project and helps all of our stakeholders—developers, testers, and valued clients—to understand it together. It acts as a manual for the team to go by and stay on track in the long run. 
 ## Requirements 
 The link below shows all the requirements needed for the Video Game Store application.
 
