@@ -145,7 +145,7 @@
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement  
       * Description: This page will show all purchased items along with who made them.
-           
+  
 * Milestone: Technical Design
   * Epic: User Registration [T6E-9]
     
@@ -190,22 +190,22 @@
       * Functional Requirement
       * Description: The system must calculate the subtotal of items in user's cart to display subtotal 
   * Epic: Payment Process [T6E-13]
-    * Handle Format of User Phone Number [T6S-32]
+    * Handle Format of User Phone Number [T6S-31]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The system must eliminate parentheses or dashes of any given phone to store.
-    * Store User Information [T6S-33]
+    * Store User Information [T6S-32]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The system must store the shipping address, credit card information, phone number, and shipping speed. The user's credit card information must also be checked for correct format. CVV code should be 3 or 4 digits and expiration date should be in MM/DD/YYYY format.
-    * Calculate Tax [T6S-34]
+    * Calculate Tax [T6S-33]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The system must calculate the tax for user (6% of the subtotal).
-    * Calculate Grand Total [T6S-35]
+    * Calculate Grand Total [T6S-34]
       * Priority: Must-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
@@ -217,36 +217,36 @@
 
 * Milestone: Future UI Design
   * Epic: Future Main Screen [T6E-14]
-    * Add Multiple Pictures to Inventory Listing
+    * Add Multiple Pictures to Inventory Listing [T6S-35]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The main screen would display multiple pictures of each item in inventory listing.
-    * Create Admin UI Page to Add Inventory
+    * Create Admin UI Page to Add Inventory [T6S-36]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The main screen would display multiple pictures of each item in inventory listing.
   * Epic: Future Sales Report Page [T6E-15]
-    * Add Admin Option to Export Sales Report
+    * Add Admin Option to Export Sales Report [T6S-37]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
       * Description: This option will export the sales report to a CSV file for admins.
-    * Add Button to View Receipts of Sold Items
+    * Add Button to View Receipts of Sold Items [T6S-38]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The button will be able to view recipts of selected sold items.
   * Epic: Future Complete Order Page [T6E-17]
 
-    * Create Input Field for User Email
+    * Create Input Field for User Email [T6S-39]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The user will be able to input an email to store for sending receipts.
   * Epic: Future Payment Page [T6E-18]
-    * Add More Payment Methods
+    * Add More Payment Methods [T6S-40]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
@@ -255,18 +255,18 @@
 * Milestone: Future Technical Design
   * Epic: New Sales Report Page [T6E-19]
   
-    * Export Sales Report to CSV
+    * Export Sales Report to CSV [T6S-41]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
       * Description: The system will be able to export a list of sold items into a CSV file with file I/O streams
-    * Sales Report Receipts
+    * Sales Report Receipts [T6S-42]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
       * Description: The system will be able to pull receipts of sold items from database to display for admin.
   * Epic: New Order Completion [T6E-20]
-    * Automatically Email Receipts
+    * Automatically Email Receipts [T6S-43]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
