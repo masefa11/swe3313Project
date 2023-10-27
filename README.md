@@ -8,10 +8,10 @@ Learn more about we will organize our project and team assignments with the link
 
 ## Meet the Team!
 
-* [Mekdilawit Asefa](https://github.com/masefa11/swe3313Project/blob/main/Mekdilawit-Asefa-Resume.md)
-* [Kayla Grant](https://github.com/masefa11/swe3313Project/blob/main/Kayla-Grant-Resume.md)
-* [Obie Ezeobi](https://github.com/masefa11/swe3313Project/blob/main/Obie-Ezeobi-Resume.md)
-* [Nolawe Girmay](https://github.com/masefa11/swe3313Project/blob/main/Nolawe-Girmay-Resume.md)
+* [Mekdilawit Asefa](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Mekdilawit-Asefa-Resume.md)
+* [Kayla Grant](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Kayla-Grant-Resume.md)
+* [Obie Ezeobi](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Obie-Ezeobi-Resume.md)
+* [Nolawe Girmay](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Nolawe-Girmay-Resume.md)
 
 ## Other 
 **[Team Assignments](Project-Plan/Team-Assignments.md)**
