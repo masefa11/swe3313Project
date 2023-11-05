@@ -22,11 +22,6 @@
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The "sign up" option must direct user to the self-registration page if user is  not already registered.
-    * Create an Option to Update Password  [T6S-4]
-      * Priority: Must-Have
-      * Estimated Effort: ~ 1/2 day
-      * Functional Requirement
-      * Description: The "update" option must allow user to re-create a unique password with an input field.
   
   * Epic: Main Screen (Inventory) [T6E-3]
   
@@ -216,37 +211,43 @@
 ### Version 2
 
 * Milestone: Future UI Design
-  * Epic: Future Main Screen [T6E-14]
-    * Add Multiple Pictures to Inventory Listing [T6S-35]
+  * Epic: Future Login Page [T6E-14]
+    * Create an Option to Update Password  [T6S-35]
+      * Priority: Must-Have
+      * Estimated Effort: ~ 1/2 day
+      * Functional Requirement
+      * Description: The "update" option must allow user to re-create a unique password with an input field.
+  * Epic: Future Main Screen [T6E-15]
+    * Add Multiple Pictures to Inventory Listing [T6S-36]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The main screen would display multiple pictures of each item in inventory listing.
-    * Create Admin UI Page to Add Inventory [T6S-36]
+    * Create Admin UI Page to Add Inventory [T6S-37]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/4 day
       * Functional Requirement
       * Description: The main screen would display multiple pictures of each item in inventory listing.
-  * Epic: Future Sales Report Page [T6E-15]
-    * Add Admin Option to Export Sales Report [T6S-37]
+  * Epic: Future Sales Report Page [T6E-16]
+    * Add Admin Option to Export Sales Report [T6S-38]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
       * Description: This option will export the sales report to a CSV file for admins.
-    * Add Button to View Receipts of Sold Items [T6S-38]
+    * Add Button to View Receipts of Sold Items [T6S-39]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The button will be able to view recipts of selected sold items.
   * Epic: Future Complete Order Page [T6E-17]
 
-    * Create Input Field for User Email [T6S-39]
+    * Create Input Field for User Email [T6S-40]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1/2 day
       * Functional Requirement
       * Description: The user will be able to input an email to store for sending receipts.
   * Epic: Future Payment Page [T6E-18]
-    * Add More Payment Methods [T6S-40]
+    * Add More Payment Methods [T6S-41]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
@@ -255,18 +256,18 @@
 * Milestone: Future Technical Design
   * Epic: New Sales Report Page [T6E-19]
   
-    * Export Sales Report to CSV [T6S-41]
+    * Export Sales Report to CSV [T6S-42]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
       * Description: The system will be able to export a list of sold items into a CSV file with file I/O streams
-    * Sales Report Receipts [T6S-42]
+    * Sales Report Receipts [T6S-43]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
       * Description: The system will be able to pull receipts of sold items from database to display for admin.
   * Epic: New Order Completion [T6E-20]
-    * Automatically Email Receipts [T6S-43]
+    * Automatically Email Receipts [T6S-44]
       * Priority: Wants-To-Have
       * Estimated Effort: ~ 1 day
       * Functional Requirement
