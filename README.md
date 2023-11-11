@@ -25,3 +25,7 @@ Learn more about how we will organize our project and team assignments with the 
 **[Requirements](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Requirements-Introduction.md)**
 
 **[Project Requirements Video Presentation](Presentations/Requirments-Video.md)**
+
+**[UI Design](https://github.com/masefa11/swe3313Project/tree/main/UI-Design)**
+
+**[UI Design Video Presentation](https://youtu.be/8PeQI3QkInE)**
