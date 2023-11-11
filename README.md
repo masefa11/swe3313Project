@@ -2,9 +2,9 @@
 
 Welcome to the project repository for Team 6! All of our project's source code, presentation, documentation, and plan will be found here. 
 
-For this project, we will develop a desktop application using JavaFX and SQL to sell various video game items and gear from your favorite games including Fortnite, Call of Duty, etc.
+For this project, we will develop a desktop application using JavaFX and SQL to sell various video gear/merch from your favorite games including Fortnite, Call of Duty, etc.
 
-Learn more about we will organize our project and team assignments with the links below:
+Learn more about how we will organize our project and team assignments with the links below:
 
 ## Meet the Team!
 
