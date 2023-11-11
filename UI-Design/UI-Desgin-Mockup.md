@@ -7,4 +7,4 @@ You will find all of the attributes fulfilled from the requirements list.
 
 As well as our video presentation for our UI design mockup.
 
-[Insert Video Link here](https://youtu.be/8PeQI3QkInE)
+[Presentation](https://youtu.be/8PeQI3QkInE)
