@@ -14,18 +14,21 @@ Learn more about how we will organize our project and team assignments with the 
 * [Nolawe Girmay](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Nolawe-Girmay-Resume.md)
 
 ## Other 
-**[Team Assignments](Project-Plan/Team-Assignments.md)**
-
-**[Technology Description](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Technology-Description.md)**
 
 **[Project Plan](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Project-Plan.md)**
 
-**[Project Plan Video Presentation](Presentations/Project-Plan-Video.md)**
+  - *[Team Assignments](Project-Plan/Team-Assignments.md)*
+    
+  - *[Technology Description](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Technology-Description.md)*
+    
+  - *[Project Plan Video Presentation](Presentations/Project-Plan-Video.md)*
 
 **[Requirements](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Requirements-Introduction.md)**
 
-**[Project Requirements Video Presentation](Presentations/Requirments-Video.md)**
+  - *[Project Requirements Video Presentation](Presentations/Requirments-Video.md)*
 
 **[UI Design](https://github.com/masefa11/swe3313Project/blob/main/UI-Design/UI-Desgin-Mockup.md)**
 
-**[UI Design Video Presentation](https://youtu.be/8PeQI3QkInE)**
+  - *[UI Design Video Presentation](https://youtu.be/8PeQI3QkInE)*
+
+**[Technical Design]**
