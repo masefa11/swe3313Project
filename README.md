@@ -37,7 +37,7 @@ Learn more about how we will organize our project and team assignments with the 
 **[Technical Design]**
 
   - *[Implemnation Language/Framework](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Implementation-Language-Frameworks.md)*
-  - [*Table of Field Descriptions for each entity*](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Table-of-Field-Description.md)
+  - [*Table of Field Descriptions for each entity*](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Table-of-Field-and-Entity-Description.md)
   - *[Entity Relationship Diagram](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Entity-Relationship-Diagram.md)*
   - *[Example Data](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Example-Data.md)*
   - *[Database Seed Data](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Database-Seed-Data.md)*
