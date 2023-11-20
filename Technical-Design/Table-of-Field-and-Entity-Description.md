@@ -7,6 +7,7 @@
 | Password        | varchar(30)                         |               | No       |                             | 6 characters minimum<br />is necessary             |
 | ShippingAddress | varchar(100)                        | Empty<br />"" | Yes      |                             | String with max<br />length of 100 characters      |
 | isAdmin         | boolean                             | False         | No       |                             | True or False <br />values for user's admin status |
+| isSold           | boolean             |                               | No      |                             | True or False <br />values for sold status |
 
 ## Inventory
 
