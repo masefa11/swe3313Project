@@ -15,7 +15,7 @@ Learn more about how we will organize our project and team assignments with the 
 
 ## Other 
 
-**[Project Plan](https://github.com/masefa11/swe3313Project/blob/main/Project-Plan/Project-Plan.md)**
+**[Project Plan]**
 
   - *[Team Assignments](Project-Plan/Team-Assignments.md)*
     
@@ -23,15 +23,18 @@ Learn more about how we will organize our project and team assignments with the 
     
   - *[Project Plan Video Presentation](Presentations/Project-Plan-Video.md)*
 
-**[Requirements](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Requirements-Introduction.md)**
+**[Requirements]**
 
+  - *[Requirements Writing](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Requirements-Writing.md)*
+  - *[Use Case Diagram](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Case-Diagram.md)*
+  - *[Decision Table](https://github.com/masefa11/swe3313Project/blob/main/Requirements/Decision-Table.md)*
   - *[Project Requirements Video Presentation](Presentations/Requirments-Video.md)*
 
-**[UI Design](https://github.com/masefa11/swe3313Project/blob/main/UI-Design/UI-Desgin-Mockup.md)**
+**[UI Design]**
 
   - *[UI Design Video Presentation](https://youtu.be/8PeQI3QkInE)*
 
-**[Technical Design](https://github.com/masefa11/swe3313Project/tree/main/Technical-Design)**
+**[Technical Design]**
 
   - *[Implemnation Language/Framework](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Implementation-Language-Frameworks.md)*
   - [*Table of Field Descriptions for each entity*](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Table-of-Field-Description.md)
