@@ -22,11 +22,11 @@
 
 ## Shipping Type
 
-| Property       | Type                                | Default | Nullable | Relationship                   | Remarks                                                      |
-| -------------- | ----------------------------------- | ------- | -------- | ------------------------------ | ------------------------------------------------------------ |
-| ShippingTypeID | primary key,<br />integer, identity |         | No       | Relate to Sales.ShippingTypeID | Key:<br />Initial Value = 1<br />Increment = 1               |
-| Name           | varchar(60)                         |         | No       |                                | String with max<br />length of 60 characters                 |
-| Price          | numeric(8,2)                        |         | No       |                                | Numeric value with<br />max total of 8 digits; <br />has 2 decimal points |
+| Property       | Type                                | Default | Nullable | Relationship                         | Remarks                                                      |
+| -------------- | ----------------------------------- | ------- | -------- | ------------------------------------ | ------------------------------------------------------------ |
+| ShippingTypeID | primary key,<br />integer, identity |         | No       | Relate to <br />Sales.ShippingTypeID | Key:<br />Initial Value = 1<br />Increment = 1               |
+| Name           | varchar(60)                         |         | No       |                                      | String with max<br />length of 60 characters                 |
+| Price          | numeric(8,2)                        |         | No       |                                      | Numeric value with<br />max total of 8 digits; <br />has 2 decimal points |
 
 
 
