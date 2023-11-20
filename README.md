@@ -39,3 +39,4 @@ Learn more about how we will organize our project and team assignments with the 
   - *[Database Seed Data](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Database-Seed-Data.md)*
   - *[Database Storage Plan](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Data-Storage-Plan.md)*
   - *[Coding Style Guide](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Coding-Style-Guide.md)*
+  - *[Video Presentation]()*
