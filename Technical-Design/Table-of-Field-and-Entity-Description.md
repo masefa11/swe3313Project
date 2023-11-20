@@ -37,5 +37,7 @@
 | UserID      | primary key,<br />integer, identity |         | No       | Relate to <br />Users.UserID         |                                                              |
 | InventoryID | primary key,<br />integer, identity |         | No       | Relate to<br />Inventory.InventoryID |                                                              |
 | DateOfSale  | date                                |         | No       |                                      | Format: YYYY-MM<br />-DD.                                    |
+| Tax(6%(     |numeric(8,2)                         |         | No       |                                      | Numeric value with<br />max total of 8 digits;                                     |
 | GrandTotal  | numeric(8,2)                        |         | No       |                                      | Numeric value with<br />max total of 8 digits; <br />has 2 decimal points |
+
 
