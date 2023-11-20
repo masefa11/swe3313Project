@@ -19,7 +19,7 @@
 [Java Tutorial](https://www.youtube.com/watch?v=drQK8ciCAjY)
 
 
-## Implementation Language: JavaFX
+## Implementation Frameworks: JavaFX
 
   - **Platform Independence**
 
