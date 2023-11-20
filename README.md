@@ -32,3 +32,10 @@ Learn more about how we will organize our project and team assignments with the 
   - *[UI Design Video Presentation](https://youtu.be/8PeQI3QkInE)*
 
 **Technical Design**
+  - *[Implemnation Language/Framework](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Implementation-Language-Frameworks.md)*
+  - [*Table of Field Descriptions for each entity*](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Table-of-Field-Description.md)
+  - *[Entity Relationship Diagram](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Entity-Relationship-Diagram.md)*
+  - *[Example Data](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Example-Data.md)*
+  - *[Database Seed Data](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Database-Seed-Data.md)*
+  - *[Database Storage Plan](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Data-Storage-Plan.md)*
+  - *[Coding Style Guide](https://github.com/masefa11/swe3313Project/blob/main/Technical-Design/Coding-Style-Guide.md)*
