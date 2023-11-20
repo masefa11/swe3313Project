@@ -16,7 +16,7 @@
 | Name        | varchar(80)                         |         | No       |                                  | String with max<br />length of 80 characters                 |
 | Description | varchar(300)                        |         | No       |                                  | String with max<br />length of 300 characters                |
 | Price       | numeric(8,2)                        |         | No       |                                  | Numeric value with<br />max total of 8 digits; <br />has 2 decimal points |
-| isSold      | boolean                             |         | No       |                                  | True or False <br />values for sold status                   |
+
 
 
 
@@ -38,7 +38,7 @@
 | InventoryID | primary key,<br />integer, identity |         | No       | Relate to<br />Inventory.InventoryID |                                                              |
 |ShippingTypeID | primary key,<br />integer, identity |       | No      | Relate to <br />Shipping.ShippingTypeID |             |
 | DateOfSale  | date                                |         | No       |                                      | Format: YYYY-MM<br />-DD.                                    |
-| Tax(6%)     |numeric(8,2)                         |         | No       |                                      | Numeric value with<br />max total of 8 digits; has 2 decimal points                                     |
+| Tax (6%)     |numeric(8,2)                         |         | No       |                                      | Numeric value with<br />max total of 8 digits; has 2 decimal points                                     |
 | GrandTotal  | numeric(8,2)                        |         | No       |                                      | Numeric value with<br />max total of 8 digits; <br />has 2 decimal points |
 
 
