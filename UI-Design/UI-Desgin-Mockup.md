@@ -3,7 +3,7 @@ Linked below is our UI design mockup for our desktop application, Next-Gen. Show
 
 You will find all of the attributes fulfilled from the requirements list.
 
-[UI Design Mockup]((https://marvelapp.com/prototype/a1jcg45))
+[UI Design Mockup](https://marvelapp.com/prototype/a1jcg45)
 
 As well as our video presentation for our UI design mockup.
 
