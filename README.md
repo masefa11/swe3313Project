@@ -32,6 +32,7 @@ Learn more about how we will organize our project and team assignments with the 
 
 **[UI Design]**
 
+  - [UI Design](https://marvelapp.com/prototype/a1jcg45)
   - *[UI Design Video Presentation](https://youtu.be/8PeQI3QkInE)*
 
 **[Technical Design]**
