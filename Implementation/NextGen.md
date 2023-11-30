@@ -1,7 +1,7 @@
 
 # Team 6 Video Gear Shop (NextGen)
 
-Welcome to the Team 6 Video Gear Shop project repository! Here you'll find all the necessary information to set up and run our desktop application for selling video game gear and merchandise. If you encounter any issues or have questions, feel free to reach out to the team.
+Welcome to Team 6's NextGen project repository! Here you'll find all the necessary information to set up and run our desktop application for selling video game gear and merchandise. If you encounter any issues or have questions, feel free to reach out to the team.
 
 ## Application Overview
 
