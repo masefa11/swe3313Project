@@ -19,11 +19,11 @@ Our application is a desktop shop built with JavaFX and JSON/SQL, offering a var
 Follow these steps to clone and build the application on a fresh machine:
 
 1. **Clone the Repository:**
+   
     https://github.com/masefa11/swe3313Project.git
 
 2. **Build the Project:**
-
-3. **Run the Application:**
+34. **Run the Application:**
 
 ## Important Notes
 
